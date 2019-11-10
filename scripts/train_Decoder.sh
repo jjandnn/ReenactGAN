@@ -1,5 +1,5 @@
 python3 train_Decoder.py \
---root_dir ./CelebV/Donald_trump/ \
+--root_dir ./CelebV/Donald_Trump/ \
 --component Decoder \
 --which_model_netG deconv_unet \
 --dataset_mode aligned_face2boundary2face \
